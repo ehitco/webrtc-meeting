@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-meeting",
+  "version": "1.0.0",
+  "description": "about webrtc meeting test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehitco/webrtc-meeting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehitco/webrtc-meeting/issues"
+  },
+  "homepage": "https://github.com/ehitco/webrtc-meeting#readme"
+}
